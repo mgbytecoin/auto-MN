@@ -4,7 +4,7 @@ Shell script to install a [MegaByteCoin Masternode](https://www.megabytecoin.org
 ***
 ## Installation (latest wallet version):
 ```
-git clone ссылка гитхаб
+git clone https://github.com/mgbytecoin/mgbcoin.git
 cd mgbinstall
 bash mgb-install.sh
 ```

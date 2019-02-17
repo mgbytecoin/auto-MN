@@ -1,4 +1,4 @@
-# MegaByteCoin:
+# Megabyte coin:
 ## Desktop wallet setup
 
 First you need to adjust your desktop wallet accordingly. Here are the steps for Windows Wallet
@@ -13,7 +13,7 @@ Open your MegaByteCoin Coin table wallet.
 7. Save the **Masternode Private Key** results to txt file
 8. Type the following command: **masternode outputs**
 9. Save the **TxHashresults** and **Output index** to txt file
-10. Go to  ** Tools -> "Open Masternode Configuration File" **
+10. Go to  **Tools -> "Open Masternode Configuration File"**
 11. Add the following entry:
 ```
 Alias Address Privkey TxHash Output_index
@@ -29,8 +29,6 @@ Alias Address Privkey TxHash Output_index
 ```
 ***
 
-
-***
 ## Installation MGB masternode:
 
 Shell script to install a [MegaByteCoin Masternode](http://mgbcoin.info/) on a Linux server running Ubuntu 14.04, 16.04 or 18.04. Use it on your own risk.

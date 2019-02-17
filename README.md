@@ -13,7 +13,7 @@ Open your MegaByteCoin Coin table wallet.
 7. Save the **Masternode Private Key** results to txt file
 8. Type the following command: **masternode outputs**
 9. Save the **TxHashresults** and **Output index** to txt file
-10. Go to  ** Tools -> "Open Masternode Configuration File"
+10. Go to  ** Tools -> "Open Masternode Configuration File" **
 11. Add the following entry:
 ```
 Alias Address Privkey TxHash Output_index

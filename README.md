@@ -5,15 +5,7 @@ Shell script to install a [MegaByteCoin Masternode](http://mgbcoin.info/) on a L
 ## Installation (latest wallet version):
 ```
 git clone https://github.com/mgbytecoin/mgbcoin.git
-cd mgbinstall
-bash mgb-install.sh
-```
-***
-## Update wallet to latest version:
-```
-cd ~/mgbinstall/
-git pull
-bash mgb-update.sh
+bash MGB_masternode_install.sh
 ```
 ***
 

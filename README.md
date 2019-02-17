@@ -32,7 +32,7 @@ Alias Address Privkey TxHash Output_index
 Shell script to install a [MegaByteCoin Masternode](http://mgbcoin.info/) on a Linux server running Ubuntu 14.04, 16.04 or 18.04. Use it on your own risk.
 
 ```
-https://github.com/mgbytecoin/auto-MN.git
+git clone https://github.com/mgbytecoin/auto-MN.git
 cd auto-MN
 bash MGB_masternode_install.sh
 ```

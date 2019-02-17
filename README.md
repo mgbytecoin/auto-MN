@@ -25,10 +25,7 @@ Alias Address Privkey TxHash Output_index
 * Output index:  **Second value from Step 8**
 12. Save and close the file.
 13. Go to **Masternode Tab**. If you tab is not shown, please enable it from: **Settings - Options - Wallet - Show Masternodes Tab**
-14. Click **Update status** to see your node. If it is not shown, close the wallet and start it again. Make sure the wallet is unlocked.
-15. Open **Debug Console** and type:
-```
-startmasternode "alias" "0" "MN1"
+14. Click **Update MISSING** to see your node. If it is not shown, close the wallet and start it again. Make sure the wallet is unlocked.
 ```
 ***
 
@@ -42,6 +39,8 @@ https://github.com/mgbytecoin/auto-MN.git
 cd auto-MN
 bash MGB_masternode_install.sh
 ```
+
+On **Enter masternode private key for masternode MGB.  Go To your LOCAL  Wallet. Menu: Tools > Debug Console , Type masternode genkey** enter value from **from Step 8**
 ***
 
 ## Usage masternode:

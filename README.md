@@ -37,7 +37,7 @@ cd auto-MN
 bash MGB_masternode_install.sh
 ```
 
-On **Enter masternode private key for masternode MGB.  Go To your LOCAL  Wallet. Menu: Tools > Debug Console , Type masternode genkey** enter value from **from Step 8**
+On **Enter masternode private key...** enter value from **from Step 8**
 ***
 
 ## Usage masternode:
